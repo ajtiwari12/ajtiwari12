@@ -1,6 +1,6 @@
 
 - # 💫 About Me:
-🔭 I’m currently working on AI <br>👯 I’m looking to collaborate on AI and Machine Learning<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Generative AI use cases <br>📫 How to reach me tiwariajay12351@gmail.com
+🔭 I’m currently working on AI <br>👯 I’m looking to collaborate on AI and Machine Learning<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Generative AI use cases <br>📫 How to reach me ajay.tiwari@walkingtree.tech
 
 
 ## 🌐 Socials:
